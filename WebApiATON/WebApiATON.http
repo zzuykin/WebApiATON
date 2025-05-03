@@ -1,0 +1,6 @@
+@WebApiATON_HostAddress = http://localhost:5288
+
+GET {{WebApiATON_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
