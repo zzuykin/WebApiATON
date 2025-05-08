@@ -17,3 +17,4 @@
    ```bash
    git clone https://github.com/zzuykin/WebApiATON.git
    cd WebApiATON
+2. Чтобы были доступны методы контроллеров User, необходимо авторизоваться как админ. Логин : admin, Пароль: admin
